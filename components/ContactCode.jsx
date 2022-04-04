@@ -16,7 +16,7 @@ const ContactCode = () => {
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;email:{' '}
         <a
-          href="mailto:nazariy@cleverprogrammer.com"
+          href="mailto:consult@charnicetatum.com"
           target="_blank"
           rel="noopener"
         >
@@ -26,30 +26,30 @@ const ContactCode = () => {
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;github:{' '}
-        <a href="https://github.com/nazariy995" target="_blank" rel="noopener">
-          nazariy995
+        <a href="https://github.com/ctatum20" target="_blank" rel="noopener">
+          ctatum20
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;linkedin:{' '}
         <a
-          href="https://www.linkedin.com/in/nitinranganath/"
+          href="https://www.linkedin.com/in/charnice-tatum-0a9017111/"
           target="_blank"
           rel="noopener"
         >
-          nitinranganath
+          charnicetatum
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;twitter:{' '}
         <a
-          href="https://www.twitter.com/iamnitinr"
+          href="https://www.twitter.com/charnicetatum_"
           target="_blank"
           rel="noopener"
         >
-          iamnitinr
+          charnicetatum_
         </a>
         ;
       </p>
@@ -64,7 +64,7 @@ const ContactCode = () => {
         </a>
         ;
       </p>
-      <p className={styles.line}>
+      {/* <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;polywork:{' '}
         <a
           href="https://www.polywork.com/nitinranganath"
@@ -99,7 +99,7 @@ const ContactCode = () => {
           itsnitinr
         </a>
         ;
-      </p>
+      </p> */}
       <p className={styles.line}>&#125;</p>
     </div>
   );
