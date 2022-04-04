@@ -8,8 +8,8 @@ const ContactCode = () => {
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;website:{' '}
-        <a href="https://nitinranganath.me" target="_blank" rel="noopener">
-          nitinranganath.me
+        <a href="charnicetatumbchain.vercel.app" target="_blank" rel="noopener">
+          charnicetatum.me
         </a>
         ;
       </p>
@@ -20,7 +20,7 @@ const ContactCode = () => {
           target="_blank"
           rel="noopener"
         >
-          nazariy@cleverprogrammer.com
+          consult@charnicetatum.com
         </a>
         ;
       </p>
@@ -53,7 +53,7 @@ const ContactCode = () => {
         </a>
         ;
       </p>
-      <p className={styles.line}>
+      {/* <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;instagram:{' '}
         <a
           href="https://www.instagram.com/iamnitinr"
@@ -63,7 +63,7 @@ const ContactCode = () => {
           iamnitinr
         </a>
         ;
-      </p>
+      </p> */}
       {/* <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;polywork:{' '}
         <a

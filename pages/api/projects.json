@@ -1,18 +1,40 @@
 [
   {
     "id": 1,
-    "name": "YouTube Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "name": "Neighborhood Tales Clone Minting Application",
+    "image": "https://imgur.com/u11kJjY.png",
+    "description": "A platform for users to mint a NHT NFT",
+    "tags": ["solidity", "react", "api", "css", "pinata IPFS", "erc-721", "styled-components"],
+    "source_code": "https://github.com/ctatum20/nht-minting-site",
+    "demo": "https://nht-clone-minting-site.netlify.app"
+
   },
   {
     "id": 1,
-    "name": "YouTube Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "name": "BirthingDen DAO",
+    "image": "https://imgur.com/H2n7zkB.png",
+    "description": "A platform for users to join and participate in the governance of the DAO, receive an airdrop of native tokens, and receive a free NFT when they are apart of the community",
+    "tags": ["react", "api", "css", "thirdWeb API", "styled-components"],
+    "source_code": "https://github.com/ctatum20/birthing-den-dao",
+    "demo": "https://birthingdendao.netlify.app"
+  },
+   {
+    "id": 1,
+    "name": "Wave Portal",
+    "image": "https://imgur.com/XPJlKDo.png",
+    "description": "A platform in which authorized users can wave at me via blockchain and randomly reveive ether for doing so",
+    "tags": ["solidity", "react", "api", "css", "alchemy", "react native", "styled-components"],
+    "source_code": "https://github.com/ctatum20/waveportal",
+    "demo": "https://waveportalfinal.netlify.app"
+  },
+    {
+    "id": 1,
+    "name": "Phantom NFT Minting Application",
+    "image": "https://imgur.com/hdjanfX.png",
+    "description": "A platform for users to mint a NHT NFT",
+    "tags": ["thirdWeb", "react", "api", "css", "erc-721", "styled-components"],
+    "source_code": "https://github.com/ctatum20/waveportal",
+    "demo": "https://phantomnft.netlify.app"
   }
+
 ]
